@@ -1,0 +1,21 @@
+.klarity_feed {background:white;margin:0pt;border-style:solid;border-width:2pt;border-color:gray;}
+
+.klarity_head {background:lightgray;margin:0pt;vertical-align:middle;}
+.klarity_head_title_span {margin:2pt;font-size:14px;font-weight:bold;vertical-align:middle;}
+.klarity_head_subtitle {margin:0pt;}
+.klarity_head_title_link {text-decoration:none;}
+.klarity_head_image_img {}
+.klarity_head_image_span {position:relative;top:2px;left:2px;}
+.klarity_head_image_link {}
+
+.klarity_content {margin:0pt;}
+
+.klarity_item {margin:10pt;}
+.klarity_item_link {text-decoration:none;}
+.klarity_item_title {font-weight:bold;border-style:solid;border-width:1pt;border-color:gray;background:#e6f2ff;width:100%;}
+
+.klarity_item_description {background:white;margin:5pt;}
+.klarity_link {}
+
+.klarity_item_date {font-size:x-small;color:gray;}
+.klarity_powered {font-size:x-small;color:gray;text-align:right;}

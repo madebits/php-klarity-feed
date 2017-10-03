@@ -2,7 +2,7 @@
 
 /**
 Klarity RSS1+2/ATOM PHP Script
-http://madebits.com
+
 (c) 2008 Vasian Cepa
 */
 class Klarity_Class
@@ -327,7 +327,7 @@ class Klarity_Class
 			{
 				echo("<xmp>"); var_dump($sxml); echo("</xmp>");
 			}
-			echo("<!-- madebits.com klarity start -->\n");
+			echo("<!--  klarity start -->\n");
 			echo("<div class='klarity_feed'>\n");
 
 			// (rude) automatic detection
@@ -414,10 +414,10 @@ class Klarity_Class
 			}
 			if($this->showPowered)
 			{
-				echo("<div class='klarity_powered'>Powered by <a href='http://madebits.com/klarity/index.php' target='" . $this->linkTarget . "'>Klarity</a> RSS1+2/ATOM</div>\n");
+				echo("<div class='klarity_powered'>Powered by <a href='/klarity/index.php' target='" . $this->linkTarget . "'>Klarity</a> RSS1+2/ATOM</div>\n");
 			}
 			echo("</div><!-- klarity_feed -->\n");
-			echo("<!-- madebits.com klarity end -->\n");
+			echo("<!--  klarity end -->\n");
 		}
 	}
 }

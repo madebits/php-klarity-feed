@@ -13,7 +13,7 @@
 </td>
 <td width="*">
 <span style="color:white;" >
-<a style="color:white;" target="_top" href="http://madebits.com/klarity/index.php">Klarity</a> |
+<a style="color:white;" target="_top" href="/klarity/index.php">Klarity</a> |
 <a style="color:white;" target="klarity_news" href="news.php?q=http://news.google.com/news%3Fned=us%26topic=t%26output=atom">Google News</a> |
 <a style="color:white;" target="klarity_news" href="news.php?q=http://rss.news.yahoo.com/rss/tech">Yahoo News</a> |
 <a style="color:white;" target="klarity_news" href="news.php?q=http://www.news.com/2547-1_3-0-20.xml">CNet News</a> |
